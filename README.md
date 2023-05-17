@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alig src="https://github.com/mos-wannit/mos-wannit/blob/main/mosmo-jaa.gif" />
+  <img alig src="https://github.com/mosmo1212312121/mosmo1212312121/blob/dev/mosmo-jaa.gif" />
 </p>
 <p align="center">
 <img height="150px" src="https://lanyard-profile-readme.vercel.app/api/307207094828924938" />
