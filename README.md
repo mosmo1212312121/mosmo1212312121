@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alig src="https://github.com/mosmo1212312121/mosmo1212312121/blob/dev/mosmo-jaa.gif" />
+  <img alig src="https://github.com/mos-wannit/mos-wannit/blob/main/mosmo-jaa.gif" />
 </p>
 <p align="center">
 <img height="150px" src="https://lanyard-profile-readme.vercel.app/api/307207094828924938" />
@@ -8,9 +8,11 @@
 <p align="center">
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mosmo1212312121&show_icons=true&count_private=true&theme=dracula" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosmo1212312121&layout=compact&count_private=true&theme=dracula" alt="Mosmo" />
 </p>
-
+<p align="center">
+  <img alig src="https://github.com/mos-wannit/test-git-action/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 <!--
-**mosmo1212312121/mosmo1212312121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mos-wannit/mos-wannit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
