@@ -9,7 +9,7 @@
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mosmo1212312121&show_icons=true&count_private=true&theme=dracula" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosmo1212312121&layout=compact&count_private=true&theme=dracula" alt="Mosmo" />
 </p>
 <p align="center">
-  <img alig src="https://github.com/mosmo1212312121/test-git-action/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alig src="https://github.com/mosmo1212312121/mosmo1212312121/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 <!--
 **mos-wannit/mos-wannit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
